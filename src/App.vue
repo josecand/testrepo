@@ -15,7 +15,7 @@ export default {
   data() {
     return {
       activeUser: {
-        name: 'Change in the main branch',
+        name: 'Maximilian Schwarzmüller',
         description: 'Site owner and admin',
         role: 'admin',
       },
